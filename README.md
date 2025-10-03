@@ -36,3 +36,5 @@ A arquitetura do pipeline é construída para ser escalável e eficiente, seguin
 * **Linguagens:** Python e SQL
 
 ---
+##  Link do LookerStudio
+https://lookerstudio.google.com/reporting/aaf570ce-dee7-47a1-9082-6ae70c0b1f45
